@@ -4,6 +4,7 @@ Senior Site Reliability Engineer architecting high-availability infrastructure f
 
 ### Past projects
 
+- **[sentry](https://github.com/clmncol/sentry)** - Kernel-level execution firewall for Linux using eBPF/LSM hooks
 - **[frontmatter](https://github.com/clmncol/frontmatter)** - Go library for parsing and writing front matter
 - **[blind](https://github.com/clmncol/blind)** - Post-quantum cryptography library (Dilithium, Kyber, ChaCha20-Poly1305)
 - **[blot](https://github.com/clmncol/blot)** - Go byte-slice obfuscation pipeline
